@@ -824,12 +824,11 @@
 					"$(PROJECT_DIR)/$(PROJECT_NAME)$(LOCAL_LIBRARY_DIR)",
 					"$(PROJECT_DIR)/MacKernelSDK/Library/universal",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				"MACOSX_DEPLOYMENT_TARGET[arch=ACID32]" = 10.4;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				MODULE_NAME = as.vit9696.Lilu;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.7.2;
+				MODULE_VERSION = 1.7.3;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
@@ -930,12 +929,11 @@
 				);
 				LLVM_LTO = YES;
 				"LLVM_LTO[arch=ACID32]" = NO;
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				"MACOSX_DEPLOYMENT_TARGET[arch=ACID32]" = 10.4;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				MODULE_NAME = as.vit9696.Lilu;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.7.2;
+				MODULE_VERSION = 1.7.3;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",
@@ -1095,12 +1093,11 @@
 					"$(PROJECT_DIR)/$(PROJECT_NAME)$(LOCAL_LIBRARY_DIR)",
 					"$(PROJECT_DIR)/MacKernelSDK/Library/universal",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.6;
-				"MACOSX_DEPLOYMENT_TARGET[arch=ACID32]" = 10.4;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				MODULE_NAME = as.vit9696.Lilu;
 				MODULE_START = "$(PRODUCT_NAME)_kern_start";
 				MODULE_STOP = "$(PRODUCT_NAME)_kern_stop";
-				MODULE_VERSION = 1.7.2;
+				MODULE_VERSION = 1.7.3;
 				OTHER_CFLAGS = (
 					"-mmmx",
 					"-msse",

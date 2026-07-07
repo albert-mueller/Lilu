@@ -7,7 +7,7 @@ cd "$(dirname "$0")"
 
 # 1. Lilu und MacKernelSDK vorbereiten
 if [ ! -d "Lilu" ]; then
-    git clone https://github.com/albert-mueller/Lilu
+    git clone https://github.com/acidanthera/Lilu
 fi
 if [ ! -d "MacKernelSDK" ]; then
     git clone https://github.com/acidanthera/MacKernelSDK

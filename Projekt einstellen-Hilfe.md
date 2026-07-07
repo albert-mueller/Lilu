@@ -1,4 +1,4 @@
-WhateverGreen
+Lilu
 =============
 
 Um dieses Projekt zu Programmieren und später, auch kompilieren, Sie benötigen Xcode.
